@@ -1,0 +1,8 @@
+.content {
+    padding: 10px 0;
+}
+.content > .cont {
+    width: 980px;
+    margin: 0 auto;
+    min-height: 100px;
+}

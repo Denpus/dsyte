@@ -1,4 +1,4 @@
-@name v@version
+dsyte v0.1.2.0
 ====================================
 @description
 
@@ -6,7 +6,6 @@
 
 # Info
 
-* Homepage: [@homepage]
-* Keywords: @keywords
+* Homepage: [https://github.com/Denpus/dsyte]
 * Author: DenKar
-* License: @license
+* License: GPL-3.0

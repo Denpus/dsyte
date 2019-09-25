@@ -1,0 +1,13 @@
+.top {
+    border-bottom: 1px solid #ccc;
+    min-height: 50px;
+    background-color: #f8f8f8;
+}
+
+.top > .cont {
+    width: 980px;
+    margin: 0 auto;
+}
+
+@include("comp/logo.css")
+@include("comp/menu.css")
