@@ -1,11 +1,16 @@
-dsyte v0.1.2.0
+dsyte v0.1.3.0
 ====================================
-@description
+Templates html
 
 # Features
 
 # Info
 
-* Homepage: [https://github.com/Denpus/dsyte]
+* Homepage: [https://github.com/Denpus/dsyte/#README.md]
+* Keywords: [
+    "html",
+    "footer",
+    "templates"
+  ]
 * Author: DenKar
-* License: GPL-3.0
+* License: CPL-3.0
