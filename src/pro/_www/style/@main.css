@@ -1,0 +1,14 @@
+/* top */
+
+@include("top.css")
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+@include("content.css")
+
+@include("footer.css")
+
+/* end */
