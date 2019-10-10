@@ -18,3 +18,7 @@
     float: left;
     width: 33%;
 }
+.footer .gensys {
+    float: right;
+    color: #999;
+}

@@ -2,4 +2,10 @@
     width: 200px;
     padding: 10px 0;
     float: left;
+    font-weight: bold;
+    font-size: larger;
+}
+.logo > a {
+    color: #3281cc;
+    text-decoration: none;
 }

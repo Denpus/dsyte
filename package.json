@@ -1,6 +1,6 @@
 {
   "name": "dsyte",
-  "version": "0.1.4.0",
+  "version": "0.1.5.0",
   "license": "CPL-3.0",
   "description": "Templates html",
   "homepage": "https://github.com/Denpus/dsyte/#README.md",
@@ -8,6 +8,5 @@
     "html",
     "footer",
     "templates"
-  ],
-  "ok" : ""
+  ]
 }

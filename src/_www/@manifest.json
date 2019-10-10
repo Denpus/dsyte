@@ -1,5 +1,6 @@
 {
   "name": "@name",
+  "url": "@homepage",
   "description" : "@description",
   "short_name": "@title",
   "icons": [
