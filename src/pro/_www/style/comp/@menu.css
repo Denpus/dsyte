@@ -2,8 +2,21 @@
     display: block;
     list-style: none;
     float: right;
+    padding: 0;
+    margin: 0;
 }
 
 .menu > ul > li {
     display: inline-block;
+    line-height: 44px;
+    height: 44px;
+    padding: 0 10px;
+}
+
+.menu > ul > li > a {
+    color: #3281cc;
+}
+
+.menu > ul > li:hover {
+    background-color: #eaeaea;
 }
