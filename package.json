@@ -1,6 +1,7 @@
 {
   "name": "dsyte",
-  "version": "0.1.6.0",
+  "key": "dio",
+  "version": "0.1.7.1",
   "license": "CPL-3.0",
   "description": "Templates html",
   "homepage": "https://github.com/Denpus/dsyte/#README.md",

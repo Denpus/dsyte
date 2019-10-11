@@ -8,6 +8,8 @@ body {
 }
 
 @include("content.css")
+@include("sidebar.css")
+@include("general.css")
 
 @include("footer.css")
 
