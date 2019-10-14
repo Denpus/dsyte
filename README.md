@@ -1,14 +1,23 @@
-dsyte v0.1.7.1
+dsyte v0.1.7.2
 ====================================
 Templates html
 
 # Features
 
+* Are two themes
+* In active development
+* Support components: counter, section and logo
+
 # Examples results
 
-![Result](src/pro/_www/screenshot.png)
+* Theme "light"
+![Result](src/light/screenshot.png)
+* Theme "pro"
+![Result](src/pro/screenshot.png)
 
 # Info
+
+Copyright (C) 2019 Denis Karabadjak
 
 * Homepage: [https://github.com/Denpus/dsyte/#README.md]
 * Keywords: [
@@ -16,5 +25,5 @@ Templates html
     "footer",
     "templates"
   ]
-* Author: DenKar
+* Author: DenKar (Denis Karabadjak) <denkar@mail.ru>
 * License: CPL-3.0

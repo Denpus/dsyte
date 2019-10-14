@@ -4,13 +4,23 @@
 
 # Features
 
+* Are two themes
+* In active development
+* Support components: counter, section and logo
+
 # Examples results
 
-![Result](src/pro/_www/screenshot.png)
+* Theme "light"
+![Result](src/light/screenshot.png)
+* Theme "pro"
+![Result](src/pro/screenshot.png)
 
 # Info
 
+Copyright (C) 2019 Denis Karabadjak
+
 * Homepage: [@homepage]
 * Keywords: @keywords
-* Author: DenKar
+* Author: DenKar (Denis Karabadjak) <denkar@mail.ru>
 * License: @license
+
