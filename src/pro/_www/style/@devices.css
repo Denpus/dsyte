@@ -1,0 +1,37 @@
+\@media screen and (max-width: 980px) {
+    .cont {
+        width: 95%!important;
+    }
+
+    .main {
+        width: 60%!important;
+    }
+
+    .sidebar {
+        width: 30% !important;
+    }
+}
+
+\@media screen and (max-width: 650px) {
+    .top {
+        min-height: auto;
+    }
+
+    .logo {
+        float: none;
+    }
+
+    .menu, .menu > ul {
+        float: none;
+    }
+
+    .main {
+        width: auto!important;
+        float: none!important;
+    }
+
+    .sidebar {
+        width: 100%!important;
+        float: none!important;
+    }
+}

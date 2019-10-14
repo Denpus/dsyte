@@ -6,3 +6,9 @@
     margin: 0 auto;
     min-height: 100px;
 }
+
+.content > .cont > .main {
+    float: left;
+}
+
+@include("devices.css")

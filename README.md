@@ -1,4 +1,4 @@
-dsyte v0.1.7.2
+dsyte v0.1.8.0
 ====================================
 Templates html
 
@@ -7,6 +7,7 @@ Templates html
 * Are two themes
 * In active development
 * Support components: counter, section and logo
+* Global themes for all projects
 
 # Examples results
 

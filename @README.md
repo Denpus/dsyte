@@ -7,6 +7,7 @@
 * Are two themes
 * In active development
 * Support components: counter, section and logo
+* Global themes for all projects
 
 # Examples results
 
