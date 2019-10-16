@@ -1,13 +1,15 @@
 {
   "name": "dsyte",
-  "key": "dio",
-  "version": "0.1.8.2",
+  "version": "0.1.9.0",
   "license": "CPL-3.0",
   "description": "Templates html",
   "homepage": "https://github.com/Denpus/dsyte/#README.md",
   "keywords": [
-    "html",
+    "HTML",
     "footer",
-    "templates"
+    "templates",
+    "script",
+    "CSS",
+    "design"
   ]
 }
