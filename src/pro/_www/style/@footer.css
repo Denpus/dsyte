@@ -5,21 +5,31 @@
     text-align: center;
     clear: both;
 }
+
 .footer > .cont {
     width: 980px;
     margin: 0 auto;
     text-align: left;
 }
+
 .footer .ls {
+    clear: both;
     overflow: hidden;
     margin-top: 10px;
-    border-top:1px solid #ccc;
+    border-top: 1px solid #ccc;
 }
+
 .footer .block {
     float: left;
     width: 33%;
 }
+
+.footer .copyright {
+    font-size: small;
+}
+
 .footer .gensys {
     float: right;
     color: #999;
+    overflow: hidden;
 }

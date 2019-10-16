@@ -6,3 +6,8 @@
 
 .bl > div {
 }
+
+.clr {
+    clear: both;
+    float: none;
+}
