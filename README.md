@@ -1,4 +1,4 @@
-dsyte v0.1.8.0
+dsyte v0.1.8.1
 ====================================
 Templates html
 
@@ -12,9 +12,10 @@ Templates html
 # Examples results
 
 * Theme "light"
-![Result](src/light/screenshot.png)
+![Desktop](src/light/screenshot.png)
 * Theme "pro"
-![Result](src/pro/screenshot.png)
+![Desktop](src/pro/desktop-screenshot.png)
+![Mobile](src/pro/mobile-screenshot.png)
 
 # Info
 

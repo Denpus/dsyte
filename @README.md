@@ -14,7 +14,8 @@
 * Theme "light"
 ![Result](src/light/screenshot.png)
 * Theme "pro"
-![Result](src/pro/screenshot.png)
+![Result](src/pro/desktop-screenshot.png)
+![Result](src/pro/mobile-screenshot.png)
 
 # Info
 
